@@ -5,9 +5,6 @@
 
 <p align="center">A Project build on html+php+mysql to make a Library Management System.</p>
 
-<p align="center">
-    <img src="https://img.shields.io/pypi/l/auto-py-to-exe.svg" alt="License"></a>
-</p>
 <h2 align="center">ER Diagram</h1>
 <p align="center">
     <img src="https://imgur.com/KEQ96Eh.png" alt="Empty interface">
@@ -59,6 +56,3 @@ There are seven pages:
 ### Installation and Usage
 - just run the index.html file.
 - create the database on your local server.
-
-## Issues Using the Code
-If you find a nice thing to commit , or find any data reduntancy in the database ping in the issue tab or directly commit it.
