@@ -3,7 +3,7 @@
     <img src="https://imgur.com/SnBU0Nt.png" alt="Empty interface">
 </p>
 
-<p align="center">A Project build on html+php+mysql to make a Library Management System.</p>
+<p align="center"><b>A Project build on HTML, PHP and MySQL</b></p>
 
 <h2 align="center">ER Diagram</h1>
 <p align="center">
